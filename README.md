@@ -1,2 +1,13 @@
-# inu-embedded-architecture
-Embedded architecture study notes from INU
+# Embedded Architecture
+
+임베디드 시스템의 하드웨어와 소프트웨어 구조를 공부하며 정리한 저장소입니다.
+
+## Topics
+
+- 임베디드 시스템의 구성
+- 프로세서와 메모리 구조
+- 입출력 장치와 인터페이스
+- 시스템 소프트웨어와 응용 소프트웨어
+- 하드웨어–소프트웨어 상호작용
+
+중간·기말시험 문제와 답안은 공개하지 않고 학습 주제만 정리합니다.

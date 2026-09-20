@@ -1,13 +1,18 @@
-# Embedded Architecture
+<p align="center"><img src="./course-panel.svg" width="100%" alt="EMBEDDED ARCHITECTURE course panel"/></p>
 
-임베디드 시스템의 하드웨어와 소프트웨어 구조를 공부하며 정리한 저장소입니다.
+# EMBEDDED ARCHITECTURE
 
-## Topics
+Notion에 축적한 수업 필기와 실습 기록을 내용 중심으로 복원한 저장소입니다.
 
-- 임베디드 시스템의 구성
-- 프로세서와 메모리 구조
-- 입출력 장치와 인터페이스
-- 시스템 소프트웨어와 응용 소프트웨어
-- 하드웨어–소프트웨어 상호작용
+## Archive
 
-중간·기말시험 문제와 답안은 공개하지 않고 학습 주제만 정리합니다.
+- [전체 필기와 실습 내용 보기](./FULL_NOTES.md)
+- 총 **3개 페이지**의 수업 기록 수록
+- 개인 식별 정보만 제거하고 설명·문제·풀이·코드는 유지
+
+## Scope
+
+`CPU` · `MEMORY` · `I/O` · `INTERFACE`
+
+> 원본 강의 첨부파일 자체가 아니라, 개인이 작성한 필기와 학습 기록을 공개합니다.
+
